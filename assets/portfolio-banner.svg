@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#07111f"/><stop offset=".5" stop-color="#11183b"/><stop offset="1" stop-color="#210d2f"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1600" height="500" rx="30" fill="url(#g)"/>
+<circle cx="1320" cy="110" r="180" fill="#143c66" opacity=".35"/><circle cx="1450" cy="360" r="220" fill="#7b1fa2" opacity=".16"/>
+<g stroke="#21d4fd" opacity=".25"><path d="M0 420H1600M0 350H1600M0 280H1600M0 210H1600M0 140H1600"/><path d="M200 0V500M400 0V500M600 0V500M800 0V500M1000 0V500M1200 0V500M1400 0V500"/></g>
+<text x="70" y="150" fill="#fff" font-family="Arial" font-size="76" font-weight="700">TS — CYBERSECURITY</text>
+<text x="70" y="235" fill="#21d4fd" font-family="Arial" font-size="76" font-weight="700">PORTFOLIO</text>
+<text x="75" y="295" fill="#d8e7ff" font-family="Arial" font-size="28">SOC • SIEM • Network Security • Incident Response • Defensive Automation</text>
+<g filter="url(#glow)"><rect x="75" y="345" width="210" height="58" rx="29" fill="none" stroke="#21d4fd" stroke-width="3"/><text x="112" y="383" fill="#fff" font-family="Arial" font-size="22">Wazuh / Suricata</text><rect x="305" y="345" width="190" height="58" rx="29" fill="none" stroke="#c86bff" stroke-width="3"/><text x="348" y="383" fill="#fff" font-family="Arial" font-size="22">Python / Flask</text><rect x="515" y="345" width="190" height="58" rx="29" fill="none" stroke="#ff3d81" stroke-width="3"/><text x="560" y="383" fill="#fff" font-family="Arial" font-size="22">Kali / Linux</text></g>
+<g transform="translate(1110 90)" fill="none" stroke="#21d4fd" stroke-width="6"><rect x="0" y="0" width="360" height="230" rx="18"/><path d="M45 180h270M80 150V65h65v85M180 150V35h65v115M280 150V90h45v60"/></g>
+<text x="1110" y="375" fill="#fff" font-family="Arial" font-size="25">BUILD • DETECT • LEARN • SECURE</text>
+</svg>
