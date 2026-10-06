@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#080d16"/>
+<text x="70" y="80" fill="#fff" font-family="Arial" font-size="52" font-weight="700">GitHub Repository Guide</text>
+<text x="70" y="125" fill="#21d4fd" font-family="Arial" font-size="25">Download • Clone • Install • Run</text>
+<g font-family="Arial" fill="#fff">
+<rect x="60" y="170" width="1480" height="170" rx="20" fill="#101a2a" stroke="#21d4fd" stroke-width="2"/>
+<text x="90" y="215" font-size="30" font-weight="700">1. Download ZIP</text>
+<text x="90" y="260" font-size="23">Open a repository → Code → Download ZIP → Extract the ZIP file.</text>
+<text x="90" y="305" font-size="21" fill="#9bdcff">Best for beginners who do not have Git installed.</text>
+<rect x="60" y="370" width="1480" height="190" rx="20" fill="#101a2a" stroke="#a86bff" stroke-width="2"/>
+<text x="90" y="415" font-size="30" font-weight="700">2. Clone with Git</text>
+<text x="90" y="460" font-size="22" fill="#d8e7ff">git clone https://github.com/teja2756/arya-soc-assistant.git</text>
+<text x="90" y="505" font-size="22" fill="#d8e7ff">cd arya-soc-assistant</text>
+<text x="90" y="540" font-size="21" fill="#c7a6ff">Then install dependencies and run the application.</text>
+<rect x="60" y="590" width="1480" height="240" rx="20" fill="#101a2a" stroke="#ff3d81" stroke-width="2"/>
+<text x="90" y="635" font-size="30" font-weight="700">3. Python project setup</text>
+<text x="90" y="680" font-size="22" fill="#d8e7ff">python -m venv venv</text>
+<text x="90" y="720" font-size="22" fill="#d8e7ff">venv\Scripts\activate   (Windows)</text>
+<text x="90" y="755" font-size="22" fill="#d8e7ff">source venv/bin/activate   (Linux/macOS)</text>
+<text x="90" y="795" font-size="22" fill="#d8e7ff">pip install -r requirements.txt</text>
+<text x="950" y="680" font-size="22" fill="#21d4fd">python app.py</text>
+<text x="950" y="725" font-size="22" fill="#fff">Open: http://127.0.0.1:5000</text>
+<text x="950" y="775" font-size="20" fill="#9aa9bf">Read each repository README first.</text>
+</g></svg>
